@@ -1,2 +1,2 @@
-# qizhou-github.io
+# qizhou.github.io
 qizhou web
